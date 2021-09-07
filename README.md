@@ -1,6 +1,6 @@
 ## 💻🌱
 
-Hi! I'm Peter, a developer from Wellington, NZ. Here are some stats about me.
+Hi 👋 I'm Peter, a developer from Wellington, NZ. Here are some stats about me.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjpscriv&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
