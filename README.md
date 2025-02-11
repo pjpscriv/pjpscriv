@@ -15,7 +15,7 @@ I'm interested in using Open Data for the public good, and open to roles in that
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/PowerShell-1E4F91?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash-4E4E4E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<!-- </p><p> -->
+</p><p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -25,13 +25,13 @@ I'm interested in using Open Data for the public good, and open to roles in that
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/ReadyAPI-FFD700?style=for-the-badge&logo=readyapi&logoColor=black" alt="ReadyAPI" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js" />
-<!-- </p><p> -->
+</p><p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
-<!-- </p><p> -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p><p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
