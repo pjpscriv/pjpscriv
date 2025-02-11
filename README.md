@@ -1,13 +1,8 @@
 # Hi 👋 I'm Peter💻🌱
 
-I'm Full Stack developer from Aoteroa New Zealand 🥝 currently living in Montreal, Canada 🍁.
+I'm Full Stack developer from Aoteroa New Zealand currently living in Montreal, Canada 🍁. After 5 years working in Ecommerce, I’m taking a career break and am currently learning French 🇫🇷 and Unreal Engine.
 
-- 🔭 I’m currently taking a career break
-- 🌱 I’m currently learning French 🇫🇷 and Unreal Engine
-- 👯 I’m open to collaborate on small open source projects
-- 👀 I'm interested in using Open Data for the public good
-- 💬 Ask me about Angular,  JavaScript and userscripts
-- 📛 Pronouns: He/Him
+I'm interested in using Open Data for the public good, and open to roles in that area. I’m also open to collaborate on small open source projects. Ask me about Angular, JavaScript and using userscripts to customize your experience of the web.
 
 ## Skills and Technologies
 
