@@ -1,12 +1,14 @@
 # Hi 👋 I'm Peter💻🌱
 
-I'm a Full Stack developer from Aoteroa New Zealand currently living in Montreal, Canada 🍁. After 5 years working in Ecommerce, I’m taking a career break and am currently learning French 🇫🇷 and Unreal Engine.
+I'm a Full Stack developer from Aoteroa New Zealand currently living in Montreal, Canada 🍁. After 5 years working in e-commerce I’m taking a career break and learning French 🇫🇷, Unreal Engine and dabbling a bit more in open source contribution.
 
-I'm interested in using Open Data for the public good, and open to roles in that area. I’m also open to collaborate on small open source projects. Ask me about Angular, JavaScript and using userscripts to customize your experience of the web.
+I'm interested in using open data, data-viz and the open web.
 
 ## Skills and Technologies
 
 <p>
+  <b>Languages</b>
+  <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -16,6 +18,8 @@ I'm interested in using Open Data for the public good, and open to roles in that
   <img src="https://img.shields.io/badge/PowerShell-1E4F91?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash-4E4E4E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p><p>
+  <b>Frameworks & Libraries</b<>
+  <br/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -26,10 +30,14 @@ I'm interested in using Open Data for the public good, and open to roles in that
   <img src="https://img.shields.io/badge/ReadyAPI-FFD700?style=for-the-badge&logo=readyapi&logoColor=black" alt="ReadyAPI" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js" />
 </p><p>
+  <b>Databases</b>
+  <br/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
 </p><p>
+  <b>Tools</b>
+  <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
