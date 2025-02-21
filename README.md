@@ -2,7 +2,7 @@
 
 I'm a Full Stack developer from Aoteroa New Zealand currently living in Montreal, Canada 🍁. After 5 years working in e-commerce I’m taking a career break and learning French 🇫🇷, Unreal Engine and dabbling a bit more in open source contribution.
 
-I'm interested in using open data, data-viz and the open web.
+I'm interested in open data, data-viz and the open web.
 
 ## Skills and Technologies
 
@@ -17,29 +17,32 @@ I'm interested in using open data, data-viz and the open web.
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/PowerShell-1E4F91?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHRpdGxlPlBvd2VyU2hlbGw8L3RpdGxlPg0KICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjMuMTgxIDIuOTc0Yy41NjggMCAuOTIzLjQ2My43OTIgMS4wMzVsLTMuNjU5IDE1Ljk4MmMtLjEzLjU3Mi0uNjk3IDEuMDM1LTEuMjY1IDEuMDM1SC44MTljLS41NjggMC0uOTIzLS40NjMtLjc5Mi0xLjAzNUwzLjY4NiA0LjAwOWMuMTMtLjU3Mi42OTctMS4wMzUgMS4yNjUtMS4wMzV6bS04LjM3NSA5LjM0NmMuMjUxLS4zOTQuMjI3LS45MDUtLjA5LTEuMjQzTDkuMTIyIDUuMTI1Yy0uMzgtLjQwNC0xLjAzNy0uNDA3LTEuNDY2LS4wMDMtLjQyOS40MDItLjQ2OCAxLjA1Ni0uMDg4IDEuNDZsNC42NjIgNC45NnYuMTFsLTcuNDIgNS4zNzRjLS40NS4zMjctLjUzMy45NzctLjE4NyAxLjQ1My4zNDYuNDc2Ljk5MS41OTcgMS40NC4yN2w4LjIyOS01LjkxYy4yOC0uMTk2LjQzOC0uMzY1LjUxNC0uNTJ6bS0yLjc5NiA0LjM5OWEuOTI4LjkyOCAwIDAwLS45MzQuOTIzYzAgLjUxLjQxOC45MjMuOTM0LjkyM2g0LjQzM2EuOTI4LjkyOCAwIDAwLjkzNC0uOTIzLjkyOC45MjggMCAwMC0uOTM0LS45MjN6Ii8+DQo8L3N2Zz4=" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash-4E4E4E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p><p>
-  <b>Frameworks & Libraries</b<>
+</p>
+<p>
+  <b>Frameworks & Libraries</b>
   <br/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHRpdGxlPlBsYXl3cmlnaHQ8L3RpdGxlPg0KICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjMuOTk2IDcuNDYyYy0uMDU2LjgzNy0uMjU3IDIuMTM1LS43MTYgMy44NS0uOTk1IDMuNzE1LTQuMjcgMTAuODc0LTEwLjQyIDkuMjI3LTYuMTUtMS42NS01LjQwNy05LjQ4Ny00LjQxMi0xMy4yMDEuNDYtMS43MTYuOTM0LTIuOTQgMS4zMDUtMy42OTQuNDItLjg1My44NDYtLjI4OSAxLjgxNS41MjMuNjg0LjU3MyAyLjQxIDEuNzkxIDUuMDExIDIuNDg4IDIuNjAxLjY5NyA0LjcwNi41MDYgNS41ODMuMzUyIDEuMjQ1LS4yMTkgMS44OTctLjQ5NCAxLjgzNC40NTVabS05LjgwNyAzLjg2M3MtLjEyNy0xLjgxOS0xLjc3My0yLjI4NmMtMS42NDQtLjQ2Ny0yLjYxMyAxLjA0LTIuNjEzIDEuMDRabTQuMDU4IDQuNTM5LTcuNzY5LTIuMTcycy40NDYgMi4zMDYgMy4zMzggMy4xNTNjMi44NjIuODM2IDQuNDMtLjk4IDQuNDMtLjk4MVptMi43MDEtMi41MXMtLjEzLTEuODE4LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY5LTIuNjEyIDEuMDM4LTIuNjEyIDEuMDM4Wk04LjU3IDE4LjIzYy00Ljc0OSAxLjI3OS03LjI2MS00LjIyNC04LjAyMS03LjA4Qy4xOTcgOS44MzEuMDQ0IDguODMyLjAwMyA4LjE4OGMtLjA0Ny0uNzMuNDU1LS41MiAxLjQxNS0uMzU0LjY3Ny4xMTggMi4zLjI2MSA0LjMwOC0uMjhhMTEuMjggMTEuMjggMCAwIDAgMi40MS0uOTU2Yy0uMDU4LjE5Ny0uMTE0LjQtLjE3LjYxLS40MzMgMS42MTgtLjgyNyA0LjA1NS0uNjMyIDYuNDI2LTEuOTc2LjczMi0yLjI2NyAyLjQyMy0yLjI2NyAyLjQyM2wyLjUyNC0uNzE1Yy4yMjcgMS4wMDIuNiAxLjk4NyAxLjE1IDIuODM4YTUuOTE0IDUuOTE0IDAgMCAxLS4xNzEuMDQ5Wm0tNC4xODgtNi4yOThjMS4yNjUtLjMzMyAxLjM2My0xLjYzMSAxLjM2My0xLjYzMWwtMy4zNzQuODg4cy43NDUgMS4wNzYgMi4wMS43NDNaIi8+DQo8L3N2Zz4=" alt="Playwright" />
-  <img src="https://img.shields.io/badge/ReadyAPI-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCA5NiA5NiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgOTYgOTYiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KICA8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJNOTAuOTUgMEgwdjk2aDk2VjBoLTUuMDV6bS00MS4zIDQ1LjI3IDEuNi0zLjgxIDQuNC0uNzkgNC40MS00LjM3LjgxLTQuNDEgMy44Mi0xLjU2IDMuNjcgMi41NiA2LjE5LjA0IDMuNjktMi41NSAzLjgzIDEuNi44NSA0LjkgNS43NCAyLjctMTkuMjIgMTYuNDgtNi43OC02Ljc5LTMuNTQgMy41NCAxMC4wNiAxMC4wNiAyMC45NC0xNy45Ni0uMDIgMTguMTQtMi45NC41MS00LjQyIDQuMzgtLjgxIDQuNDEtMy44MiAxLjU2LTMuNjctMi41N2gtNi4yMmwtMy42OCAyLjU0LTMuODEtMS42LS43OS00LjQyLTQuMzUtNC40Mi00LjQyLS43OS0xLjU3LTMuODIgMi41Ni0zLjY2LjAzLTYuMjEtMi41NC0zLjd6bTM3Ljc1LTExLjgtLjg4LTUuMDYtOC44Ny0zLjctNC42NSAzLjItMy4wNS0uMDEtNC42Mi0zLjIzLTguODggMy42Mi0xLjAyIDUuNTYtMi4yIDIuMTctNS41NSAxLTMuNyA4Ljg0IDMuMiA0LjY0LS4wMSAzLjA4LTMuMjMgNC42MyAzLjY2IDguODggNS41NCAxIDIuMTUgMi4xOCAxIDUuNTggOC44NCAzLjcgNC42NS0zLjJoMy4wOGw0LjYxIDMuMjIgOC44OC0zLjYzIDEuMDItNS41NSAyLjItMi4xNy41My0uMS0uMDIgMjIuMDYtODQuMjktLjIyLjA0LTM3LjIgMi45IDEuMjIgMi41IDMuOWg2LjI4bDIuNS0zLjkgMy45MS0xLjY1IDQuNTMgMSA0LjQxLTQuNDUtLjk5LTQuNSAxLjY1LTMuOTQgMy45LTIuNDd2LTYuMjhsLTMuOS0yLjUtMS42NS0zLjkyLjk5LTQuNTUtNC40MS00LjQxLTQuNTMuOTlMMjAgMTUuNjdsLTIuNS0zLjloLTYuMjdsLTIuNSAzLjktMi44NiAxLjE4LjAxLTEwLjk4aDg0LjI4bC0uMDMgMjguODYtMi43My0xLjI4ek01Ljg2IDI1YTEyLjk4IDEyLjk4IDAgMCAxIDIxLjQ5IDkuOCAxMi45OCAxMi45OCAwIDAgMS0yMS41IDkuOEw1Ljg1IDI1eiIvPg0KICA8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJtMjguMzEgNjkuMTYgMi43OCAxLjk5IDIuNzQtMi4wMS0xLjA2LTMuMjRoLTMuNDF6Ii8+DQogIDxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Im00MC4xMyA2Mi4yMyAxLjE1LTMuNTYtNC4zMS0zLjExLTMuMDIgMi4yaC01LjhsLTMuMDItMi4xOS00LjMgMy4xNCAxLjE2IDMuNTctMS44IDUuNUwxNy4xOSA3MGwxLjY2IDUuMDYgMy43NS0uMDIgNC42OSAzLjQgMS4xNiAzLjU1aDUuMzFsMS4xNy0zLjU3TDM5LjYgNzVsMy43My0uMDIgMS42NC01LjA2LTMuMDQtMi4yLTEuOC01LjV6bS01LjU1IDEwLjgyLTcgLjAyLTIuMTctNi42NCA1LjY0LTQuMTIgNS42NyA0LjA5LTIuMTQgNi42NXpNMjEuOSAzNC44MmE3LjUzIDcuNTMgMCAxIDAtMTUuMDctLjAzIDcuNTMgNy41MyAwIDAgMCAxNS4wNi4wM3oiLz4NCjwvc3ZnPg==" alt="ReadyAPI" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js" />
-</p><p>
+</p>
+<p>
   <b>Databases</b>
   <br/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIRSURBVHgBrVXbUcMwEDxl8o+pAFMBLkEdECogVAAdECrAHUAqwKkApwKgAkwFCRWE3Wg10ZhgOxluZsen157uobOzDtlsNhk+hYbvzrm1/YeAOAeegJmMcO7OjhC3h5w3vgYWmsr0vQWuDvVi9Muic+9SvUjPpN8AUztQ3F8LCskKWAIT4BL4SLbUFvLS2DEGZOQRnwb4IpmmGSKG0MvIuS4y7zO2z4AHVsAtMFHSqWfAdbKvAF5VGPlgD3R4qpu+WEj4zHZhoze51nN564Eq5nJk/UISxn+BQwwH8SlCEs1EvIFea+yjJ0MMMBRz3h6HShl70FouoksQzxW6QgbpYW+SeZiJZmgYlgq4IJnWn7QWq6uxUFmxIGxs3cJS/ZK+JedYnlxobtFVPa7n9jTwJiPU+ehK3diDuLQeGXeQTzX0Ft5ASpbZroUcZkDN7dVCPCnzRF9LL2ygjFrkuYWb1hZ6zxJheBYh+xLjnrMcbaCMWuSU2JZJWPE1W6h5enZKL7R3UFcdJ+QFbla1fjLf8oY54KOqk+RXgw1A7gE+lInt6voEKNn/2WegX6ltNLbLxTDBwbdEn+pF8pWWwkuc157e8mx7sMQhesG/WG0hRLnWWPsMB8NFw2YD49/2It60iAlXa456pvFzuyV3iWsZ8RaaFLsl85A+pkaYqHQPN5AYIrG3kOhtaYqc872/yVR+AJFCQUoChreJAAAAAElFTkSuQmCC" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" />
-</p><p>
-  <b>Tools</b>
+</p>
+<p>
+  <b>Tools & Platforms</b>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/ReadyAPI-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCA5NiA5NiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgOTYgOTYiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KICA8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJNOTAuOTUgMEgwdjk2aDk2VjBoLTUuMDV6bS00MS4zIDQ1LjI3IDEuNi0zLjgxIDQuNC0uNzkgNC40MS00LjM3LjgxLTQuNDEgMy44Mi0xLjU2IDMuNjcgMi41NiA2LjE5LjA0IDMuNjktMi41NSAzLjgzIDEuNi44NSA0LjkgNS43NCAyLjctMTkuMjIgMTYuNDgtNi43OC02Ljc5LTMuNTQgMy41NCAxMC4wNiAxMC4wNiAyMC45NC0xNy45Ni0uMDIgMTguMTQtMi45NC41MS00LjQyIDQuMzgtLjgxIDQuNDEtMy44MiAxLjU2LTMuNjctMi41N2gtNi4yMmwtMy42OCAyLjU0LTMuODEtMS42LS43OS00LjQyLTQuMzUtNC40Mi00LjQyLS43OS0xLjU3LTMuODIgMi41Ni0zLjY2LjAzLTYuMjEtMi41NC0zLjd6bTM3Ljc1LTExLjgtLjg4LTUuMDYtOC44Ny0zLjctNC42NSAzLjItMy4wNS0uMDEtNC42Mi0zLjIzLTguODggMy42Mi0xLjAyIDUuNTYtMi4yIDIuMTctNS41NSAxLTMuNyA4Ljg0IDMuMiA0LjY0LS4wMSAzLjA4LTMuMjMgNC42MyAzLjY2IDguODggNS41NCAxIDIuMTUgMi4xOCAxIDUuNTggOC44NCAzLjcgNC42NS0zLjJoMy4wOGw0LjYxIDMuMjIgOC44OC0zLjYzIDEuMDItNS41NSAyLjItMi4xNy41My0uMS0uMDIgMjIuMDYtODQuMjktLjIyLjA0LTM3LjIgMi45IDEuMjIgMi41IDMuOWg2LjI4bDIuNS0zLjkgMy45MS0xLjY1IDQuNTMgMSA0LjQxLTQuNDUtLjk5LTQuNSAxLjY1LTMuOTQgMy45LTIuNDd2LTYuMjhsLTMuOS0yLjUtMS42NS0zLjkyLjk5LTQuNTUtNC40MS00LjQxLTQuNTMuOTlMMjAgMTUuNjdsLTIuNS0zLjloLTYuMjdsLTIuNSAzLjktMi44NiAxLjE4LjAxLTEwLjk4aDg0LjI4bC0uMDMgMjguODYtMi43My0xLjI4ek01Ljg2IDI1YTEyLjk4IDEyLjk4IDAgMCAxIDIxLjQ5IDkuOCAxMi45OCAxMi45OCAwIDAgMS0yMS41IDkuOEw1Ljg1IDI1eiIvPg0KICA8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJtMjguMzEgNjkuMTYgMi43OCAxLjk5IDIuNzQtMi4wMS0xLjA2LTMuMjRoLTMuNDF6Ii8+DQogIDxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Im00MC4xMyA2Mi4yMyAxLjE1LTMuNTYtNC4zMS0zLjExLTMuMDIgMi4yaC01LjhsLTMuMDItMi4xOS00LjMgMy4xNCAxLjE2IDMuNTctMS44IDUuNUwxNy4xOSA3MGwxLjY2IDUuMDYgMy43NS0uMDIgNC42OSAzLjQgMS4xNiAzLjU1aDUuMzFsMS4xNy0zLjU3TDM5LjYgNzVsMy43My0uMDIgMS42NC01LjA2LTMuMDQtMi4yLTEuOC01LjV6bS01LjU1IDEwLjgyLTcgLjAyLTIuMTctNi42NCA1LjY0LTQuMTIgNS42NyA0LjA5LTIuMTQgNi42NXpNMjEuOSAzNC44MmE3LjUzIDcuNTMgMCAxIDAtMTUuMDctLjAzIDcuNTMgNy41MyAwIDAgMCAxNS4wNi4wM3oiLz4NCjwvc3ZnPg==" alt="ReadyAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
@@ -71,3 +74,11 @@ I'm interested in using open data, data-viz and the open web.
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </p>
+
+### Panhandling
+
+If you like something I made and feel like sending a few dollars my way ☺️
+
+<a href="https://www.buymeacoffee.com/pjpscriv">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
