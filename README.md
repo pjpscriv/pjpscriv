@@ -56,23 +56,24 @@ I'm interested in open data, data-viz and the open web.
 ## Let's Connect!
 
 <p>
-  <a href="https://linkedin.com/in/pjpscriv">
+  <picture><a href="https://linkedin.com/in/pjpscriv">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=" alt="LinkedIn" />
-  </a>
-  <a href="https://bsky.app/profile/pjpscriv.com">
+  </a></picture>
+  <picture><a href="https://bsky.app/profile/pjpscriv.com">
     <img src="https://img.shields.io/badge/Bluesky-0057FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  <a href="https://observablehq.com/user/@pjpscriv">
+  </a></picture>
+  <picture><a href="https://observablehq.com/user/@pjpscriv">
     <img src="https://img.shields.io/badge/Observable-353535?style=for-the-badge&logo=observable&logoColor=white" alt="Observable" />
-  </a>
-  <a href="https://glitch.com/@pjpscriv">
+  </a></picture>
+  <picture><a href="https://glitch.com/@pjpscriv">
     <img src="https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" />
-  </a>
-  <a href="https://gitlab.com/pjpscriv">
+  </a></picture>
+  <picture><a href="https://gitlab.com/pjpscriv">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://stackoverflow.com/users/13762264/pjpscriv">
+  </a></picture>
+  <picture><a href="https://stackoverflow.com/users/13762264/pjpscriv">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+  </a></picture>
 </p>
 
 ### Panhandling
