@@ -76,7 +76,7 @@ I'm interested in open data, data-viz and the open web.
   </a></picture>
 </p>
 
-### Panhandling
+### Contribution
 
 If you like something I made and feel like sending a few dollars my way ☺️
 
