@@ -62,6 +62,9 @@ I'm interested in open data, data-viz and the open web.
   <picture><a href="https://bsky.app/profile/pjpscriv.com">
     <img src="https://img.shields.io/badge/Bluesky-0057FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a></picture>
+  <picture><a href="https://mastodon.nz/@pjpscriv">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a></picture>
   <picture><a href="https://observablehq.com/user/@pjpscriv">
     <img src="https://img.shields.io/badge/Observable-353535?style=for-the-badge&logo=observable&logoColor=white" alt="Observable" />
   </a></picture>
