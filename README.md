@@ -49,9 +49,18 @@ I'm interested in open data, data-viz and the open web.
 
 
 ## My Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjpscriv&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjpscriv&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <picture>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pjpscriv&count_private=true&show_icons=true&theme=vue&hide=contribs" alt="My GitHub Stats" />
+    </a>
+  </picture>
+  <picture>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjpscriv&theme=vue&layout=compact" alt="My Top Languages" />
+    </a>
+  </picture>
+</p>
 
 ## Let's Connect!
 
