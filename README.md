@@ -46,7 +46,7 @@ I'm interested in open data, data-viz and the open web.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=new-relic&logoColor=white" alt="New Relic" />
-  <img src="https://img.shields.io/badge/Splunk-3c9c17?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Splunk-3c9c17?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTkiIHZpZXdCb3g9IjAgMCAxNiAxOSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE1LjIyOTQgMTEuMDczN1Y4LjA4MjdMMC42MDkzNzUgMC43NDI3VjQuMDM0N0wxMS45Mzk0IDkuNTUzN0wwLjYwOTM3NSAxNS4xNDc3VjE4LjM2NDdMMTUuMjI5NCAxMS4wNzM3WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==" alt="Splunk" />
 </p>
 
 
