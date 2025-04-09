@@ -4,6 +4,9 @@ I'm a Full Stack developer from Aoteroa New Zealand currently living in Montreal
 
 I'm interested in open data, data-viz and the open web.
 
+<details>
+  <summary>More about me</summary>
+
 ## Skills and Technologies
 
 <p>
@@ -95,3 +98,5 @@ If you like something I made and feel like sending a few dollars my way ☺️
 <a href="https://www.buymeacoffee.com/pjpscriv">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
+
+</details>
