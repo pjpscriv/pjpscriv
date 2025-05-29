@@ -82,9 +82,6 @@ I'm interested in open data, data-viz and the open web.
   <picture><a href="https://observablehq.com/user/@pjpscriv">
     <img src="https://img.shields.io/badge/Observable-353535?style=for-the-badge&logo=observable&logoColor=white" alt="Observable" />
   </a></picture>
-  <picture><a href="https://glitch.com/@pjpscriv">
-    <img src="https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" />
-  </a></picture>
   <picture><a href="https://gitlab.com/pjpscriv">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a></picture>
