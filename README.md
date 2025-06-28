@@ -67,6 +67,8 @@ I'm interested in open data, data-viz and the open web.
   </picture>
 </p>
 
+![](https://komarev.com/ghpvc/?username=pjpscriv&style=flat-square&abbreviated=true)
+
 ## Let's Connect!
 
 <p>
