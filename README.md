@@ -1,6 +1,6 @@
 # Hi 👋 I'm Peter💻🌱
 
-I'm a Full Stack developer from Aoteroa New Zealand currently living in Montreal, Canada 🍁. After 5 years working in e-commerce I’m taking a career break and learning French 🇫🇷, Unreal Engine and dabbling a bit more in open source contribution.
+I'm a Full Stack developer from Aoteroa New Zealand currently living in Montreal, Canada 🍁. After 5 years working in e-commerce I’m taking a career break, learning French in Quebéc 🇫🇷, and dabbling a bit more in open source contribution.
 
 I'm interested in open data, data-viz and the open web.
 
